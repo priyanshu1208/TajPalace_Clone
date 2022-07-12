@@ -1,0 +1,702 @@
+body {
+    overflow-x: scroll;
+    text-align: center;
+    height: 7454.670px;
+    
+}
+
+
+
+
+
+/* NAVBAR */
+#navigation {
+    margin-bottom: 5.5%;
+}
+
+.navbar1 {
+    background-color: rgba(18, 18, 18, 0.853);
+
+
+}
+
+.nav-link1 {
+    color: white;
+}
+
+.nav-link1:hover {
+    color: rgb(155, 154, 154);
+}
+
+.nav-ul1 {
+    margin-right: 25%;
+    margin-left: 25%;
+
+
+
+
+}
+
+@media (min-width:1368px) {
+    .nav-ul1 {
+        margin-right: 25%;
+        margin-left: 20%;
+    }
+
+}
+
+.nav-item1 {
+    margin-right: 5%;
+    font-size: 0.8rem;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+.nav-btn1 {
+    border-color: white;
+    border: 2px solid;
+    width: 140px;
+    height: auto;
+    justify-content: center;
+    border-radius: 0;
+    color: white;
+    font-size: 0.8rem;
+    margin-top: 2.15%;
+    padding-top: 3.58%;
+
+}
+
+.nav-button1 {
+    margin-right: 0;
+}
+
+.nav-btn1:hover {
+    background-color: white;
+    color: black;
+    border-color: black;
+    border: 2px solid;
+}
+
+
+/* TITLE */
+#title {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.heading {
+    height: 300px;
+    padding-top: 10%;
+    font-family: 'Ubuntu', sans-serif;
+
+
+}
+
+.t-heading {
+    font-size: 4.0rem;
+    font-weight: lighter;
+    padding-bottom: 0.48%;
+
+}
+
+.t-bot {
+    font-size: 1.1rem;
+    color: rgb(163, 162, 162);
+    font-style: italic;
+}
+
+.title-img {
+    width: 80%;
+    padding-top: 30px;
+
+
+}
+
+/* TITLE-FORM */
+.title-form {
+    margin-top: 12%;
+    margin-bottom: 8%;
+
+}
+
+.row-1 {
+    text-align: left;
+    margin-left: 7%;
+}
+
+.check-in-1 {
+    width: 105%;
+    padding: 1.4% 2.3% 1.4% 2.3%;
+
+
+}
+
+.no {
+    width: 130%;
+    margin-top: 8.7%;
+    padding: 5.3% 8.7% 5.3% 8.7%;
+
+}
+
+.form-de {
+    margin-bottom: 3%;
+}
+
+.submit-btn {
+    margin-top: 29px;
+    margin-left: 8px;
+    width: 200px;
+    background: #000;
+    color: white;
+    font-size: 0.75rem;
+    height: 54%;
+    padding: 0.995% 1.658% 0.995% 1.658%;
+}
+
+/* ABOUT US */
+
+#aboutus {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 13%;
+    margin-bottom: 10%;
+
+}
+
+.aboutus-heading {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.aboutus-head {
+    font-size: 2.5rem;
+    font-weight: lighter;
+    margin: 0 0 5.4% 0;
+    text-align: center;
+}
+
+.aboutus-body {
+    font-size: 0.9rem;
+    text-align: center;
+    line-height: 2rem;
+    color: grey;
+}
+
+/* ROOMS */
+#rooms {
+    height: 12.7314%;
+    margin-left: 15%;
+
+    margin-top: 13.2%;
+}
+
+.hero-section {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+    width: 82%;
+    padding-top: 275px;
+    padding-left: 27%;
+    padding-right: 50px;
+}
+
+.hero-text {
+    background-color: rgb(248, 247, 247);
+    height: 400px;
+    width: 400px;
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+.room-heading {
+    color: black;
+    padding-bottom: 30px;
+    font-weight: normal;
+}
+
+.room-body {
+    color: black;
+    text-align: center;
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+    margin-bottom: 50px
+}
+
+.room-text {
+    font-size: 0.9rem;
+    color: grey;
+    font-style: italic;
+
+}
+
+.room-btn {
+    width: 250px;
+    border-radius: 0;
+    margin-top: 5%;
+
+}
+
+/* SERVICES */
+#services {
+    margin-top: 7%;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-bottom: 10%;
+}
+
+.service-head {
+    margin: 7%;
+    font-size: 2.5rem;
+    font-weight: lighter;
+    margin-bottom: 130px;
+}
+
+.s-col {
+    padding-right: 40px;
+    padding-bottom: 35px;
+}
+
+.col-heading {
+    margin-bottom: 2%;
+}
+
+.s-col-body {
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+.s-col-bot {
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+    color: grey;
+    margin-top: 15px;
+}
+
+
+/* GALLERY */
+#gallery {
+    margin-bottom: 150px;
+}
+
+.gal-heading {
+    margin-bottom: 8%;
+    font-size: 2.5rem;
+    word-spacing: normal;
+    font-weight: lighter;
+}
+
+.carousel-inner1 {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.g-img {
+    width: 70%;
+    height: 60%;
+}
+
+
+/* THINGS */
+#things {
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-bottom: 10%;
+}
+
+.things-head {
+    margin: 7%;
+    font-size: 2.5rem;
+    font-weight: lighter;
+    margin-bottom: 100px;
+}
+
+.t-col {
+    padding-right: 40px;
+    padding-bottom: 35px;
+}
+
+.col-things-body {
+    margin-top: 10px;
+    font-size: 1rem;
+}
+
+.col-things-bottom {
+    font-size: 0.8rem;
+    line-height: 1.5rem;
+    color: grey;
+    margin-top: 15px;
+    font-style: italic;
+}
+
+/* REVIEW */
+#review {
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.review-bg {
+    height: 700px;
+    width: 70%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.card {
+    margin-left: 20%;
+    margin-top: 200px;
+    margin-right: 25%;
+    width: 60%;
+    height: 15%;
+    padding: 5%;
+}
+
+.carousel-indicators {
+    margin-bottom: -9%;
+
+
+
+}
+
+.r-circle {
+    border-radius: 70% !important;
+    width: 12px !important;
+    height: 10px !important;
+    margin-right: 5px !important;
+
+}
+
+.r-img {
+    height: 190px !important;
+
+
+}
+
+.card-body {
+    margin-left: 10%;
+}
+
+.card-title {
+    text-align: left;
+    font-weight: normal;
+
+}
+
+.card-text {
+    text-align: left;
+    margin-top: 5%;
+    font-weight: lighter;
+    font-size: 0.9rem;
+    font-style: italic;
+    /* padding-bottom: 40px; */
+}
+
+/* CONTACT US */
+#contact {
+    background-color: rgba(242, 241, 241, 0.94);
+
+    height: 1000px;
+
+}
+
+
+.contact-head {
+    padding: 7% 7% 3% 7%;
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
+
+.contact-body {
+    font-size: 0.9rem;
+    color: grey;
+}
+
+.row-3 {
+    text-align: left;
+    margin-left: 32%;
+    margin-top: 4%;
+}
+
+.name-c {
+    font-style: italic;
+    padding: 5% 5% 4% 0;
+}
+
+.name {
+    width: 100%;
+    padding: 1% 2% 1% 5%;
+    font-style: italic;
+
+}
+
+.email {
+    padding: 1% 2% 1% 5%;
+    width: 100%;
+    font-style: italic;
+}
+
+.email-c {
+    font-style: italic;
+    padding: 5% 5% 4% 0;
+}
+
+.row-4 {
+    text-align: left;
+    margin-left: 32%;
+
+}
+
+.sub-c {
+    padding: 2% 5% 1% 0;
+
+    font-style: italic;
+}
+
+.subject {
+    padding: 0.5% 1% 0.5% 2%;
+    width: 74.5%;
+    font-style: italic;
+}
+
+.row-5 {
+    text-align: left;
+
+}
+
+.msg-c {
+    padding: 2% 5% 1% 0;
+
+    font-style: italic;
+}
+
+.msg {
+    padding: 0.5% 1% 0.5% 2%;
+    width: 76%;
+    font-style: italic;
+}
+
+.btn-c {
+    margin-left: 0;
+    margin-top: 2%;
+}
+
+.icons {
+    padding-top: 7%;
+    padding-left: 75%;
+
+
+}
+
+.icon {
+    padding-right: 4%;
+    color: #0a0a0ac8;
+    font-size: 1.8rem;
+
+}
+
+
+
+.icon:hover {
+    font-size: 2.1rem;
+}
+
+.icon1:hover {
+    color: rgb(45, 45, 171);
+
+}
+
+.icon2:hover {
+    color: rgb(233, 80, 106);
+
+}
+
+.icon3:hover {
+    color: rgb(219, 23, 23);
+
+}
+
+.icon4:hover {
+    color: rgb(32, 136, 221);
+}
+
+/* MAP */
+#map {
+    height: 200px;
+    margin-bottom: 620px;
+
+}
+
+.map-img {
+    height: 800px;
+    width: 100%;
+
+}
+
+.map-2 {
+    background-color: rgb(145, 144, 144);
+    padding-left: 0;
+}
+
+.m-col-1 {
+    padding-right: 0;
+}
+
+.taj-img {
+    height: 800px;
+    width: 100%;
+
+}
+
+
+/* footer */
+#footer {
+
+    height: 35px;
+    background-color: black;
+    color: white;
+}
+
+.final {
+    font-size: .8rem;
+    padding-top: 5px;
+}
+
+@media (max-width:480px) and (min-width:320px) {
+   
+    .collapse {
+        height: 420px;
+    }
+
+    .navbar-toggler {
+        margin-bottom: 5px;
+        margin-top: 5px;
+        border: 0;
+    }
+
+    .nav-ul1 {
+        margin-right: 25%;
+        margin-left: 120px;
+    }
+
+    .nav-item1 {
+        margin-right: 5%;
+        font-size: 0.8rem;
+        padding-top: 2%;
+        padding-bottom: 2%;
+
+    }
+
+    .nav-link1 {
+
+        width: 200px;
+    }
+
+
+    .nav-button1 {
+        width: 200px;
+    }
+
+    .t-heading {
+        margin-top: 80px;
+        font-size: 2.5rem;
+
+        padding-bottom: 10px;
+        margin-left: 50px;
+    }
+
+    .t-bot {
+        font-size: 0.9rem;
+        margin-left: 55px;
+    }
+
+    .title-img {
+        width: 120%;
+        height: 500px;
+    }
+    .title-form{
+        visibility: hidden;
+        height: 0;
+    }
+
+    /* .check-in-1 {
+        width: 120%;
+        margin-bottom: 3%;
+    }
+    .row-1 {
+        text-align: left;
+        
+    }
+    .no {
+        width: 25%;
+        margin-top: 1%;
+        height: 40px;
+        margin-bottom: 3%;
+        padding-left: 5px;
+    }
+
+    .form-de {
+        margin-bottom: 2%;
+    }
+
+    .submit-btn {
+        margin-left: 5px;
+        width: 280px;
+        font-size: 0.8rem;
+
+    } */
+
+    #aboutus{
+        margin-left: 0;
+    margin-right: 0;
+        margin-top: 15%;
+        margin-bottom: 35%;
+    }
+    .aboutus-heading {
+        margin-left: 0%;
+        margin-right: 0% !important;
+       
+    }
+    .aboutus-head {
+        margin-left: 15% !important;
+        font-size: 2.5rem;
+        font-weight: lighter;
+        margin: 0 0 5.4% 0;
+        text-align: center;
+    }
+    .aboutus-body{
+        font-size: 0.8rem;
+        margin-top: 30px;
+        margin-left: 25%;
+        margin-right: 10%;
+
+        
+    }
+    
+#rooms{
+    margin-left: 0;
+    margin-right: 0;
+}
+    .hero-section{
+        
+        height: 900px;
+        width: 115%;
+        padding-top: 200px;
+    padding-left: 20%;
+    padding-right: 50px;
+    }
+    .hero-text{
+        height: 500px;
+        width: 300px;
+
+    }
+}
